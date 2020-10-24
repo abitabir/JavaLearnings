@@ -1,0 +1,6 @@
+####### Compilation ######
+java runs better on bigger systems than python, but scala is even more performant than java
+javac AlienKind.java    // In terminal, proper method to compile code from standalone class in notepad.java file not in package {java VMs do this in background} - Creates AlienKind.class in bytecode
+
+java AlienKind          // In terminal. To run AlienKind.class {NOTE DO NOT WRITE EXTENSION!!!} - however will not run class if private {psvm}, comes up with error message
+//use tab for correct filename shortcut after typing A in in correct directory
